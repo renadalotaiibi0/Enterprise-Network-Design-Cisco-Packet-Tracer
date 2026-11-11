@@ -76,7 +76,7 @@ Assigned Network Configuration:
 - Default Gateway: 192.168.3.1
 - DNS Server: 192.168.1.3
 
-![DHCP Test](Screenshot%201448-05-30%20at%209.27.47%20PM.png)
+![DHCP Test](Screenshot%201448-05-30%20at%209.04.00...png)
 
 ### Connectivity Test
 
